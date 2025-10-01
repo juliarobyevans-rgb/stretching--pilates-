@@ -1,7 +1,7 @@
 # 🧘 Clases de Pilates y Stretching con Julia
 
-Bienvenido a mi sitio web donde ofrezco clases en línea de **Pilates** y **Stretching**.  
-Mejora tu bienestar integral y flexibilidad desde la comodidad de tu hogar.
+Bienvenido a mis clases en línea de **Pilates** y **Stretching**.  
+Mejorá tu bienestar integral y flexibilidad desde la comodidad de tu hogar.
 
 ---
 
@@ -14,25 +14,12 @@ Mejora tu bienestar integral y flexibilidad desde la comodidad de tu hogar.
 
 ---
 
-## ✉️ Contacto
+## ✉️ Contacto para Clases por Zoom
 
-**Correo:** [juliarobyevans@gmail.com](mailto:juliarobyevans@gmail.com)  
-Para más información o unirte a las clases, envíame un mensaje.
+Para más información o unirte a las clases, podés contactarme por:  
 
----
-
-## 🌐 Ver mi proyecto
-
-| Tipo | Enlace |
-|------|--------|
-| Página web en Netlify | [Visitar la página](https://tu-pagina-en-netlify.netlify.app) |
-| Repositorio en GitHub (solo para ver) | [Ver el repositorio](https://github.com/juliarobyevans-rgb/stretching-pilates) |
-
----
-
-## 📱 Redes Sociales
-
-Sígueme en Instagram: [@instructora_julia](https://www.instagram.com/instructora_julia)
+- **Correo:** [juliarobyevans@gmail.com](mailto:juliarobyevans@gmail.com)  
+- **Instagram:** [@instructora_julia](https://www.instagram.com/instructora_julia)  
 
 ---
 
