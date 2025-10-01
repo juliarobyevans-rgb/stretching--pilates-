@@ -1,32 +1,38 @@
-# Clases de Pilates y Stretching con Julia
+# 🧘 Clases de Pilates y Stretching con Julia
 
-## Bienvenido
-Únete a nuestras clases de pilates y stretching en línea. Mejora tu bienestar integral y flexibilidad con sesiones personalizadas y guiadas.
+Bienvenido a mi sitio web donde ofrezco clases en línea de **Pilates** y **Stretching**.  
+Mejora tu bienestar integral y flexibilidad desde la comodidad de tu hogar.
 
-## Clases Disponibles
+---
 
-**Clase de Pilates:**  
-Lunes y Miércoles a las 11:00 AM (horario Argentina).  
-Mejora tu flexibilidad y fuerza en un ambiente relajado.
+## 📅 Clases Disponibles
 
-**Clase de Stretching:**  
-Martes y Jueves a las 10:00 AM (horario Argentina).  
-Libera tensiones y mejora tu movilidad.
+| Clase | Días y Horario (Argentina) | Beneficios |
+|-------|----------------------------|------------|
+| 🟢 **Pilates** | Lunes y Miércoles 11:00 AM | Mejora tu flexibilidad y fuerza en un ambiente relajado |
+| 🔵 **Stretching** | Martes y Jueves 10:00 AM | Libera tensiones y mejora tu movilidad |
 
-## Contacto
-Para más información, envía un correo a: **juliarobyevans@gmail.com**
+---
 
-## Enlaces Útiles
-Visita mi Linktree para más información sobre mis servicios:  
-[marylighthealing | Linktree](https://linktr.ee/marylighthealing)
+## ✉️ Contacto
 
-## Redes Sociales
+**Correo:** [juliarobyevans@gmail.com](mailto:juliarobyevans@gmail.com)  
+Para más información o unirte a las clases, envíame un mensaje.
+
+---
+
+## 🌐 Ver mi proyecto
+
+| Tipo | Enlace |
+|------|--------|
+| Página web en Netlify | [Visitar la página](https://tu-pagina-en-netlify.netlify.app) |
+| Repositorio en GitHub (solo para ver) | [Ver el repositorio](https://github.com/juliarobyevans-rgb/stretching-pilates) |
+
+---
+
+## 📱 Redes Sociales
+
 Sígueme en Instagram: [@instructora_julia](https://www.instagram.com/instructora_julia)
-
-## Términos de Uso
-El contenido de este sitio web está protegido por derechos de autor. Queda prohibida la copia, reproducción, distribución, modificación o cualquier otro uso no autorizado del contenido.  
-
-Este sitio web se proporciona únicamente con el fin de informar y permitir a los usuarios registrarse en las clases de pilates y stretching.
 
 ---
 
