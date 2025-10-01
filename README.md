@@ -1,35 +1,81 @@
-# Clases de Pilates y Stretching en Línea
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clases de Pilates y Stretching</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #6a5acd;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .contact-info {
+            margin: 20px 0;
+        }
+        a {
+            color: #6a5acd;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
 
-Este repositorio contiene la página web para clases de Pilates y Stretching en línea, ofrecidas por Julia.
+<header>
+    <h1>Clases de Pilates y Stretching en Línea</h1>
+</header>
 
-## Características
+<main>
+    <h2>Bienvenido</h2>
+    <p>Ofrecemos clases de Pilates y Stretching diseñadas para todos los niveles. Si estás interesado en mejorar tu bienestar físico y mental, estas clases son para ti.</p>
+    
+    <h3>Clases Disponibles</h3>
+    <ul>
+        <li>Pilates</li>
+        <li>Stretching Avanzado</li>
+        <li>Stretching para Adultos Mayores</li>
+        <li>Stretching para Todas las Edades</li>
+    </ul>
+    
+    <h3>Horarios</h3>
+    <p>Las clases se llevan a cabo los lunes y miércoles a las 11:00 AM (horario Argentina).</p>
 
-- Clases de Pilates.
-- Stretching Avanzado.
-- Stretching para Adultos Mayores.
-- Stretching para Todas las Edades.
+    <div class="contact-info">
+        <h3>Contacto</h3>
+        <p>Para inscribirte o solicitar más información, puedes contactarnos a través de:</p>
+        <ul>
+            <li>Correo electrónico: <a href="mailto:juliarobyevans@gmail.com">juliarobyevans@gmail.com</a></li>
+            <li>Síguenos en Instagram: <a href="https://www.instagram.com/instructora_julia" target="_blank">Instructora Julia</a></li>
+            <li>Visita nuestro <a href="https://linktr.ee/marylighthealing" target="_blank">Linktree</a> para más información sobre nuestros servicios.</li>
+        </ul>
+    </div>
+</main>
 
-## Horarios
+<footer>
+    <p>&copy; 2025 Clases de Pilates y Stretching. Todos los derechos reservados.</p>
+</footer>
 
-Las clases se llevan a cabo los lunes y miércoles a las 11:00 AM (horario Argentina).
-
-## Contacto
-
-Para más información, puedes contactarme por correo electrónico: [juliarobyevans@gmail.com](mailto:juliarobyevans@gmail.com).
-
-Sígueme en Instagram para más actualizaciones: [Instructora Julia](https://www.instagram.com/instructora_julia).
-
-Visita mi [Linktree](https://linktr.ee/marylighthealing) para más información sobre mis servicios.
-
-## Contribución
-
-Si deseas contribuir, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama para tus cambios.
-3. Haz commit de tus cambios y envíalos.
-4. Abre un Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+</body>
+</html>
